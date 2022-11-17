@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm Min </h1>
+<h1 align="center">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm Ian </h1>
 
 <p align="left">Passionate about data and how the use of data can create a better tomorrow for all and create opportunities for everyone in a safe and ethical way.</p>
 <ul align="left">
