@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm Ahardiansyah </h1>
 
-<p align="left">Passionate about data and how the use of data can create a better tomorrow for all and create opportunities for everyone in a safe and ethical way.</p>
+<p align="left">Passionate about data and how the use of data can create a better tomorrow for all and create opportunities for everyone in safe and ethical way.</p>
 <ul align="left">
   <li> I have completed <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/MRGE3H2ERML5" target="_blank">Google Data Analytics Professional Certificate</a></li>
   <li>Graduated from <a href="https://digitalent.kominfo.go.id/cek-sertifikat?registrasi=149252928101-587" target="_blank">Digital Talent Scholarship 2022 Program specializing in Data Science</a></li>
